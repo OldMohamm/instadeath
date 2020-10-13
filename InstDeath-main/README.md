@@ -7,7 +7,7 @@
 **Download .NET Core 3**
 
 ```
-git clone https://github.com/JustGhostz/InstDeath.git
+git clone 
 cd InstDeath
 ```
 
