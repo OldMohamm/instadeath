@@ -17,7 +17,7 @@ class Program
  / /_/ / / /_/ / /__/ ,< / / / / /_/ / /  __/
 /_.___/_/\__,_/\___/_/|_/_/ /_/\____/_/\___/ 
                                              
-By Hades @0nlymohammed
+By @
 ";
 	public static Dictionary<string, string> Responses = new Dictionary<string, string>();
 	public static List<string> Proxies = new List<string>();
